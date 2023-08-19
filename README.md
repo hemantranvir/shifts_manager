@@ -1,4 +1,4 @@
-# Clipboard Health Challenge
+# Shifts manager
 
 ## Overview
 
